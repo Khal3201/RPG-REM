@@ -1,5 +1,6 @@
-# RPG-REM
-## Versión en Español
+# RPG-REM 
+
+## Español
 
 ### Sinopsis  
 RPG-REM es un RPG 2D vista superior hecho en GML2. Inspirado en conceptos como la alteración de la memoria, sueños, identidad y el Efecto Mandela. La historia empieza en un mundo aparentemente normal, pero eventos extraños (apagones, puertas ocultas, sueños) revelan una realidad frágil y cargada de misterio.
@@ -39,7 +40,17 @@ Aquí unas imágenes del estado actual del juego:
 ![Sprites](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Sprites.png)  
 ![TileSets](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Tilesets.png)  
 
+## Estado del Proyecto
 
+Versión **0.1.0 Alpha** – En desarrollo por **Khal3201**  
+Actualmente el proyecto se encuentra en una etapa temprana de desarrollo (Alpha).  
+Se han implementado sistemas básicos como movimiento, colisiones y primeras pruebas de escenarios.  
+En futuras versiones se añadirán: sistema de diálogos, inventario, estadísticas y mas escenarios.
+
+## Licencia
+
+Este proyecto es de uso exclusivo de **Khal3201**.  
+No está permitido copiar, modificar, distribuir ni usar este proyecto sin autorización explícita del autor.
 
 ---
 ## English Version
@@ -82,5 +93,14 @@ Here are some current screenshots of the game:
 ![Sprites](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Sprites.png)  
 ![TileSets](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Tilesets.png)  
 
+## Project status
+Version **0.1.0 Alpha** – In development by **Khal3201**  
+The project is currently in an early development stage (Alpha).  
+Basic systems have been implemented, such as movement, collisions, and first environment tests.  
+Future versions will include: dialogue system, inventory, stats, and additional scenarios.
+
+## License
+This project is for the exclusive use of **Khal3201**.  
+It is not allowed to copy, modify, distribute, or use this project without the explicit permission of the author.
 
 ---
