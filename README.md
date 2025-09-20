@@ -23,6 +23,9 @@ RPG-REM es un RPG 2D vista superior hecho en GML2. Inspirado en conceptos como l
 - Más decoración ambiental (objetos de interior como televisión, muebles).  
 - Mejorar pulido y habitaciones interiores; hacer una demo estable.
 
+### Como probar el juego
+descarga el repositorio y extrae el archivo "REM.rar" dentro de la carpeta "Game_Install" y ejecuta el archivo .exe.
+
 ### Capturas  
 
 Aquí unas imágenes del estado actual del juego:
@@ -35,6 +38,7 @@ Aquí unas imágenes del estado actual del juego:
 ![Interior Room](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/ZielRoom.png)  
 ![Sprites](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Sprites.png)  
 ![TileSets](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Tilesets.png)  
+
 
 
 ---
@@ -62,6 +66,9 @@ RPG-REM is a 2D top-down RPG made in GML2. Inspired by ideas like memory alterat
 - More environmental decoration (interior props like TV, furniture).  
 - Improve polish and map interiors; make prototype demo-ready.
 
+### How to test the game
+Download the repository and extract the "REM.rar" file into the "Game_Install" folder and run the .exe file.
+
 ### Screenshots  
 
 Here are some current screenshots of the game:
@@ -74,5 +81,6 @@ Here are some current screenshots of the game:
 ![Interior Room](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/ZielRoom.png)  
 ![Sprites](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Sprites.png)  
 ![TileSets](https://github.com/Khal3201/RPG-REM/blob/5ac55180b7a42c111c70d77597cf2abfeb8e7278/Images_REM/Tilesets.png)  
+
 
 ---
